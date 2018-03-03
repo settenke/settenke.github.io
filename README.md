@@ -1,0 +1,3 @@
+# Virág Zoltán
+
+I have been involved in creating robust (corporate governance and financial) systems as a backend and frontend developer. I collected experience in the development and operation of highly frequented pages. In addition, I have continually improved my knowledge of both client-side and server-based solutions along the lines of clean code. My hobbies are smart home, gardening, forestry, hiking and cycling.
