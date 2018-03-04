@@ -22,6 +22,6 @@ tools_text: During my work, I use cloud-based solutions as well as various CI to
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-115056921-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
